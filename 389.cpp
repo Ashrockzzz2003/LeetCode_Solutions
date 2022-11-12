@@ -1,6 +1,7 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
+        
         if(s.length() == 0){
             return t[0];
         }
