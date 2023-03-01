@@ -24,3 +24,5 @@ class Solution:
                 b = headA
         
         return b
+
+    
