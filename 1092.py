@@ -38,4 +38,7 @@ class Solution:
 
     def shortestCommonSupersequence(self, str1: str, str2: str) -> str:
         return self.SCSFromLCS(str1, str2)
+    
+
+print(Solution().shortestCommonSupersequence("bbababbb", "bbbaaaba"))
         
