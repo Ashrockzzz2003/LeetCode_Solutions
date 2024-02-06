@@ -19,6 +19,3 @@ class Solution:
         
         return final_ans
 
-
-        return []
-
